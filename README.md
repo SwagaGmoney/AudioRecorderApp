@@ -1,4 +1,4 @@
-# | -------------------------------------------------------------------  AudioRecorderApp  --------------------------------------------------------------------- |
+# | ----------  AudioRecorderApp  ------------- |
 
 A SwiftUI-based iOS application that allows users to record, play-back, and upload audio sessions using API integration.  
 It includes real-time waveform visualization, authentication, session management, and file uploads with progress tracking.
