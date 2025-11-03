@@ -12,4 +12,11 @@ The app follows the **MVVM (Model–View–ViewModel)** pattern:
 - **Services** – Manage networking, authentication, and audio recording  
 - **Extensions** – Contain reusable waveform UI 
 
+## ⚙️ Setup Instructions
 
+Use these steps to set-up the app locally on your MacOS:
+
+### 1. **Clone the Repository**
+```bash
+git clone https://github.com/yourusername/AudioRecorderApp.git
+cd AudioRecorderApp
