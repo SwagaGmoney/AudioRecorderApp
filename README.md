@@ -18,5 +18,5 @@ Use these steps to set-up the app locally on your MacOS:
 
 ### 1. **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/AudioRecorderApp.git
+git clone https://github.com/SwagaGmoney/AudioRecorderApp.git
 cd AudioRecorderApp
